@@ -1,5 +1,8 @@
 pluginManagement {
     repositories.gradlePluginPortal()
+    plugins {
+        id("de.undercouch.download") version "4.1.2"
+    }
     includeBuild("../my-build-logic")
 }
 
