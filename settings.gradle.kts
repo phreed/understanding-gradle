@@ -5,4 +5,8 @@ pluginManagement {
 //    includeBuild("annex-docker-plugin")
 }
 
-includeBuild("14_Settings_Plugins")
+includeBuild("03_Plugins")
+//includeBuild("14_Settings_Plugins")
+//includeBuild("14_Settings_Plugins")
+//includeBuild("14_Settings_Plugins")
+//includeBuild("14_Settings_Plugins")
